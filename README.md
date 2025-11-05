@@ -103,3 +103,12 @@ INSERT INTO items (name, description, price, stock) VALUES
 ('Razor', 'Sharp blade for close shave', 49.99, 10),
 ('Cloak', 'Weatherproof winter cloak', 99.50, 5),
 ('Potion', 'Heals wounds instantly', 9.99, 25);
+
+
+## Screenshots
+
+<img src="./Assets/0.jpg" alt="Image">
+<img src="./Assets/1.jpg" alt="Image">
+<img src="./Assets/2.jpg" alt="Image">
+<img src="./Assets/3.jpg" alt="Image">
+<img src="./Assets/4.jpg" alt="Image">
